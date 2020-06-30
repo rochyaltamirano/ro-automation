@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d71bc9c1-1a0a-432f-b965-c3ea61765c9f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="webdriver_java" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bbVvgEXfyaZw4Z3PTwv1arZtW4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginTest">
+    <configuration name="HorizontalSliderTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webdriver_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="slider" />
+      <option name="MAIN_CLASS_NAME" value="slider.HorizontalSliderTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeysTest.testBackspace" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webdriver_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="keys.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="keys" />
+      <option name="MAIN_CLASS_NAME" value="keys.KeysTest" />
+      <option name="METHOD_NAME" value="testBackspace" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webdriver_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="login" />
+      <option name="MAIN_CLASS_NAME" value="login.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NavigationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webdriver_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="navigation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="navigation" />
+      <option name="MAIN_CLASS_NAME" value="navigation.NavigationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NavigationTest.testSwitchTab" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webdriver_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="navigation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="navigation" />
+      <option name="MAIN_CLASS_NAME" value="navigation.NavigationTest" />
+      <option name="METHOD_NAME" value="testSwitchTab" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.KeysTest.testBackspace" />
+        <item itemvalue="TestNG.NavigationTest.testSwitchTab" />
+        <item itemvalue="TestNG.NavigationTest" />
+        <item itemvalue="TestNG.HorizontalSliderTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d71bc9c1-1a0a-432f-b965-c3ea61765c9f" name="Default Changelist" comment="" />
+      <created>1588901011031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588901011031</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="398" y="123" width="1182" height="761" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1589204313267">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="398" y="123" width="1182" height="759" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1680.959@0.23.1680.959" timestamp="1588949794694" />
+    <state x="398" y="123" width="1182" height="761" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1680.961@0.23.1680.961" timestamp="1589204313267" />
+    <state x="908" y="312" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589859341047">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="908" y="312" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.960@0.23.1680.960" timestamp="1589859341047" />
+    <state x="1068" y="210" key="#com.intellij.ide.util.MemberChooser" timestamp="1589860611494">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="1068" y="210" key="#com.intellij.ide.util.MemberChooser/0.23.1680.959@0.23.1680.959" timestamp="1589128789651" />
+    <state x="1068" y="210" key="#com.intellij.ide.util.MemberChooser/0.23.1680.960@0.23.1680.960" timestamp="1589860611494" />
+    <state x="866" y="369" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589825673683">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="866" y="369" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1680.959@0.23.1680.959" timestamp="1589825673683" />
+    <state width="896" height="318" key="GridCell.Tab.0.bottom" timestamp="1591974436227">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="896" height="318" key="GridCell.Tab.0.bottom/0.23.1680.959@0.23.1680.959" timestamp="1591974436227" />
+    <state width="896" height="318" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1589862096961" />
+    <state width="1080" height="265" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1589384328285" />
+    <state width="728" height="265" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1589402580960" />
+    <state width="896" height="318" key="GridCell.Tab.0.center" timestamp="1591974436227">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="896" height="318" key="GridCell.Tab.0.center/0.23.1680.959@0.23.1680.959" timestamp="1591974436227" />
+    <state width="896" height="318" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1589862096958" />
+    <state width="1080" height="265" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1589384328284" />
+    <state width="728" height="265" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1589402580959" />
+    <state width="896" height="318" key="GridCell.Tab.0.left" timestamp="1591974436227">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="896" height="318" key="GridCell.Tab.0.left/0.23.1680.959@0.23.1680.959" timestamp="1591974436227" />
+    <state width="896" height="318" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1589862096957" />
+    <state width="1080" height="265" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1589384328284" />
+    <state width="728" height="265" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1589402580959" />
+    <state width="896" height="318" key="GridCell.Tab.0.right" timestamp="1591974436227">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="896" height="318" key="GridCell.Tab.0.right/0.23.1680.959@0.23.1680.959" timestamp="1591974436227" />
+    <state width="896" height="318" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1589862096959" />
+    <state width="1080" height="265" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1589384328285" />
+    <state width="728" height="265" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1589402580959" />
+    <state width="896" height="318" key="GridCell.Tab.1.bottom" timestamp="1591974436228">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="896" height="318" key="GridCell.Tab.1.bottom/0.23.1680.959@0.23.1680.959" timestamp="1591974436228" />
+    <state width="636" height="318" key="GridCell.Tab.1.bottom/0.23.1680.960@0.23.1680.960" timestamp="1589862096746" />
+    <state width="896" height="318" key="GridCell.Tab.1.bottom/0.23.1680.961@0.23.1680.961" timestamp="1589862124697" />
+    <state width="896" height="318" key="GridCell.Tab.1.center" timestamp="1591974436228">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="896" height="318" key="GridCell.Tab.1.center/0.23.1680.959@0.23.1680.959" timestamp="1591974436228" />
+    <state width="636" height="318" key="GridCell.Tab.1.center/0.23.1680.960@0.23.1680.960" timestamp="1589862096745" />
+    <state width="896" height="318" key="GridCell.Tab.1.center/0.23.1680.961@0.23.1680.961" timestamp="1589862124696" />
+    <state width="896" height="318" key="GridCell.Tab.1.left" timestamp="1591974436228">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="896" height="318" key="GridCell.Tab.1.left/0.23.1680.959@0.23.1680.959" timestamp="1591974436228" />
+    <state width="636" height="318" key="GridCell.Tab.1.left/0.23.1680.960@0.23.1680.960" timestamp="1589862096745" />
+    <state width="896" height="318" key="GridCell.Tab.1.left/0.23.1680.961@0.23.1680.961" timestamp="1589862124696" />
+    <state width="896" height="318" key="GridCell.Tab.1.right" timestamp="1591974436228">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="896" height="318" key="GridCell.Tab.1.right/0.23.1680.959@0.23.1680.959" timestamp="1591974436228" />
+    <state width="636" height="318" key="GridCell.Tab.1.right/0.23.1680.960@0.23.1680.960" timestamp="1589862096746" />
+    <state width="896" height="318" key="GridCell.Tab.1.right/0.23.1680.961@0.23.1680.961" timestamp="1589862124697" />
+    <state x="434" y="200" key="new project wizard" timestamp="1591238747393">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="434" y="200" key="new project wizard/0.23.1680.959@0.23.1680.959" timestamp="1591238747393" />
+    <state x="765" y="231" key="run.anything.popup" timestamp="1589383449175">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="765" y="231" key="run.anything.popup/0.23.1680.959@0.23.1680.959" timestamp="1589383449175" />
+    <state x="1004" y="233" width="670" height="677" key="search.everywhere.popup" timestamp="1589833002358">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="1004" y="233" width="670" height="676" key="search.everywhere.popup/0.23.1680.959@0.23.1680.959" timestamp="1589579101460" />
+    <state x="1004" y="233" width="670" height="677" key="search.everywhere.popup/0.23.1680.960@0.23.1680.960" timestamp="1589833002358" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/base/BaseTests.java</url>
+          <line>73</line>
+          <properties class="base.BaseTests" method="setCookie">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
